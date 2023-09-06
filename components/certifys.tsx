@@ -7,7 +7,7 @@ import Certify from "./certify";
 import { useSectionInView } from "@/lib/hooks";
 
 export default function Certifys() {
-  const { ref } = useSectionInView("Certify", 0.5);
+  const { ref } = useSectionInView("Certifys", 0.5);
 
   return (
     <section ref={ref} id="certifys" className="scroll-mt-28 mb-28">
