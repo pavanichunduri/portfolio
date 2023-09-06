@@ -10,7 +10,6 @@ type CertifyProps = (typeof certifyData)[number];
 export default function Certify({
   title,
   description,
-  tags,
   imageUrl,
 }: CertifyProps) {
   const ref = useRef<HTMLDivElement>(null);
