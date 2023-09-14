@@ -75,7 +75,7 @@ export const experiencesData = [
     title: "Graduate Assistant",
     location: "Long Beach, CA",
     description:
-      "Throughout the year I worked under 3 professors. Organized and conducted Zoom meetings to facilitate in-depth discussions on problem-solving algorithms. Implemented innovative teaching techniques that boosted student participation by 35%, creating an interactive and dynamic learning environment." ,
+      "Managed and improved internal university websites effectively by employing React, HTML, CSS, and JavaScript, leading to a remarkable 20% surge in user engagement and a notable 15% decrease in bounce rate." ,
     icon: React.createElement(CgWorkAlt),
     date: "2022",
   },
