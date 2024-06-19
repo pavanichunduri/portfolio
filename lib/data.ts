@@ -44,13 +44,7 @@ export const links = [
   },
 ] as const;
 export const educationData = [
-  {
-    title: "Bachelors in Computer Science",
-    location: "PVP Siddhartha Institute of Technology, Vijayawada, India",
-    description:" Relevant Coursework:Advanced Analysis of Algorithms, Object oriented Analysis & Design, Software Engineering.",
-    icon: React.createElement(LuGraduationCap),
-    date: "2019-2021",
-  },
+ 
   
   {
     title: "Masters in Computer Science",
