@@ -62,7 +62,7 @@ export const experiencesData = [
     location: "Remote",
     description:"Expertise in Full-Stack Web Development using React, Express with Node.js and MongoDB. Collaborated effectively with web developers on diverse projects, writing code, optimizing performance, and resolving issues",
     icon: React.createElement(CgWorkAlt),
-    date: "2020-2021",
+    date: "2019-2021",
   },
   
   {
