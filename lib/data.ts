@@ -49,7 +49,7 @@ export const educationData = [
     location: "PVP Siddhartha Institute of Technology, Vijayawada, India",
     description:" Relevant Coursework:Advanced Analysis of Algorithms, Object oriented Analysis & Design, Software Engineering.",
     icon: React.createElement(LuGraduationCap),
-    date: "2020-2021",
+    date: "2019-2021",
   },
   
   {
