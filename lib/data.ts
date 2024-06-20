@@ -58,7 +58,7 @@ export const educationData = [
 
 export const experiencesData = [
   {
-    title: "Full Stack Developer",
+    title: "Full Stack Developer at Grip Spark Foundation",
     location: "Remote",
     description:"Expertise in Full-Stack Web Development using React, Express with Node.js and MongoDB. Collaborated effectively with web developers on diverse projects, writing code, optimizing performance, and resolving issues",
     icon: React.createElement(CgWorkAlt),
@@ -66,7 +66,7 @@ export const experiencesData = [
   },
   
   {
-    title: "Graduate Assistant",
+    title: "Graduate Assistant at California State University Long Beach",
     location: "Long Beach, CA",
     description:
       "Managed and improved internal university websites effectively by employing React, HTML, CSS, and JavaScript, leading to a remarkable 20% surge in user engagement and a notable 15% decrease in bounce rate." ,
