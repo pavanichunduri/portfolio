@@ -57,10 +57,10 @@ export const educationData = [
 ] as const;
 
 export const experiencesData = [
-  {
-    title: "Full Stack Developer at Grip Spark Foundation",
+    {
+    title: "Full Stack Developer at DataFlake",
     location: "Remote",
-    description:"Expertise in Full-Stack Web Development using React, Express with Node.js and MongoDB. Collaborated effectively with web developers on diverse projects, writing code, optimizing performance, and resolving issues",
+    description:"Optimized system performance by reducing code vulnerabilities and migrating to a Spring Boot microservices architecture, improving platform responsiveness by 20%. Developed automated UI tests with Selenium and optimized database queries using Hibernate, enhancing user satisfaction and system efficiency.",
     icon: React.createElement(CgWorkAlt),
     date: "2019-2021",
   },
@@ -69,10 +69,17 @@ export const experiencesData = [
     title: "Graduate Assistant at California State University Long Beach",
     location: "Long Beach, CA",
     description:
-      "Managed and improved internal university websites effectively by employing React, HTML, CSS, and JavaScript, leading to a remarkable 20% surge in user engagement and a notable 15% decrease in bounce rate." ,
+      "Implemented OAuth2 JWT-based Single Sign-On (SSO) for secure session management across applications. Transitioned RESTful APIs to GraphQL, enhanced microservices architecture with Express.js and ES6, and optimized performance with MongoDB, Spring Boot, Kafka, and Kubernetes for cloud orchestration." ,
     icon: React.createElement(CgWorkAlt),
     date: "2022",
   },
+   {
+    title: "Full Stack Developer at Grip Spark Foundation",
+    location: "Remote",
+    description:"Developed REST APIs using JavaScript and Node modules, and built interactive React applications with Tailwind CSS. Gained expertise in AWS services, including RDS and EC2, and automated infrastructure provisioning with custom Jenkins pipelines.",
+    icon: React.createElement(CgWorkAlt),
+    date: "2020-2021",
+  }
 ] as const;
 
 export const projectsData = [
