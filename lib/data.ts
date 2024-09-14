@@ -6,7 +6,7 @@ import todoo from "@/public/todoo.png";
 import twitter from "@/public/twitter.png";
 import info from "@/public/info.png";
 import grip from "@/public/grip.jpeg";
-import grip from "@/public/aws.png";
+import aws from "@/public/aws.png";
 
 
 
