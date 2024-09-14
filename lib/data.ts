@@ -101,12 +101,17 @@ export const projectsData = [
  
 ] as const;
 export const certifyData = [
-  
+  {
+    title: "AWS Certified Developer - Associate",
+    description:
+      " ",
+    imageUrl: info,
+  },
   {
     title: "Infosys Certified Software Programmer",
     description:
       " ",
-    imageUrl: info,
+    imageUrl: aws,
   },
    {
     title: "The Grip Spark Foundation ",
