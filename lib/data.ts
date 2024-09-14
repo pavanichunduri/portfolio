@@ -107,13 +107,13 @@ export const certifyData = [
     title: "AWS Certified Developer - Associate",
     description:
       " ",
-    imageUrl: info,
+    imageUrl: aws,
   },
   {
     title: "Infosys Certified Software Programmer",
     description:
       " ",
-    imageUrl: aws,
+    imageUrl: info,
   },
    {
     title: "The Grip Spark Foundation ",
