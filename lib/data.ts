@@ -64,7 +64,7 @@ export const experiencesData = [
     location: "Remote",
     description:"Optimized system performance by reducing code vulnerabilities and migrating to a Spring Boot microservices architecture, improving platform responsiveness by 20%. Developed automated UI tests with Selenium and optimized database queries using Hibernate, enhancing user satisfaction and system efficiency.",
     icon: React.createElement(CgWorkAlt),
-    date: "2019-2021",
+    date: "2023-2024",
   },
   
   {
