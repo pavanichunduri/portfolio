@@ -59,6 +59,13 @@ export const educationData = [
 ] as const;
 
 export const experiencesData = [
+   {
+    title: "Full Stack Developer at TechcloudUSA",
+    location: "Remote",
+    description:"Developed dynamic and responsive web applications using JavaScript, HTML, and CSS, creating reusable React components and improving user experience by 15%. Collaborated with product partners to deliver high-quality UX and aligned development with customer-focused strategies.  Designed and implemented RESTful APIs for seamless data exchange, optimizing performance and enhancing platform scalability. Participated in code reviews to ensure high-quality, maintainable code and adherence to best practices, reducing bugs by 20%.  Reduced page load time by 20 % through client-side performance optimizations using JavaScript and React. "
+    icon: React.createElement(CgWorkAlt),
+    date: "2023-2024",
+  },
     {
     title: "Full Stack Developer at DataFlake",
     location: "Remote",
