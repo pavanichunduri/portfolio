@@ -80,7 +80,7 @@ export const experiencesData = [
     location: "Remote",
     description:"Developed REST APIs using JavaScript and Node modules, and built interactive React applications with Tailwind CSS. Gained expertise in AWS services, including RDS and EC2, and automated infrastructure provisioning with custom Jenkins pipelines.",
     icon: React.createElement(CgWorkAlt),
-    date: "2020-2021",
+    date: "2019-2021",
   }
 ] as const;
 
